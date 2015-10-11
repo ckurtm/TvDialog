@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TvDialog</string>
+
+    <string name="dialog_title">Title</string>
+    <string name="dialog_desc">This is the description</string>
+    <string name="dialog_yes">I Agree</string>
+    <string name="dialog_no">I Disagree</string>
+
+</resources>
